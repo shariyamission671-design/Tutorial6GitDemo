@@ -1,0 +1,15 @@
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/bin/Debug/net10.0/Tutorial6GitDemo
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/bin/Debug/net10.0/Tutorial6GitDemo.deps.json
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/bin/Debug/net10.0/Tutorial6GitDemo.runtimeconfig.json
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/bin/Debug/net10.0/Tutorial6GitDemo.dll
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/bin/Debug/net10.0/Tutorial6GitDemo.pdb
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.AssemblyInfoInputs.cache
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.AssemblyInfo.cs
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.csproj.CoreCompileInputs.cache
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.sourcelink.json
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.dll
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/refint/Tutorial6GitDemo.dll
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.pdb
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/Tutorial6GitDemo.genruntimeconfig.cache
+/Users/shariyayusufmission/Tutorial6GitDemo/Tutorial6GitDemo/obj/Debug/net10.0/ref/Tutorial6GitDemo.dll
